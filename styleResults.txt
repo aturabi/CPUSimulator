@@ -1,0 +1,31 @@
+Processing :  /home/aturabi/p5f/decoder.cpp
+Processing :  /home/aturabi/p5f/registers.cpp
+Processing :  /home/aturabi/p5f/memory.cpp
+Processing :  /home/aturabi/p5f/labels.cpp
+Processing :  /home/aturabi/p5f/decoder.h
+Processing :  /home/aturabi/p5f/main.cpp
+Processing :  /home/aturabi/p5f/registers.h
+Processing :  /home/aturabi/p5f/instruction.cpp
+Processing :  /home/aturabi/p5f/memory.h
+Processing :  /home/aturabi/p5f/instruction2.cpp
+Processing :  /home/aturabi/p5f/instruction.h
+Processing :  /home/aturabi/p5f/instruction2.h
+Processing :  /home/aturabi/p5f/labels.h
+Processing :  /home/aturabi/p5f/word.cpp
+Processing :  /home/aturabi/p5f/data.cpp
+Processing :  /home/aturabi/p5f/data.h
+Processing :  /home/aturabi/p5f/word.h
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 30
+ ** Total Violated Rules      : 0
+ ** Total Errors Occurs       : 0
+ ** Total Analyzed Files      : 17
+ ** Total Violated Files Count: 0
+ ** Build Quality             : 100.00%
+
+================================ Violated Rule Details ===============================
+
+================================ Violated File Details ===============================

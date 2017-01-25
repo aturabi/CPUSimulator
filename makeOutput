@@ -1,0 +1,10 @@
+g++ -ansi -Wall -g -c decoder.cpp memory.h
+g++ -ansi -Wall -g -c instruction.cpp
+g++ -ansi -Wall -g -c instruction2.cpp
+g++ -ansi -Wall -g -c labels.cpp
+g++ -ansi -Wall -g -c main.cpp
+g++ -ansi -Wall -g -c registers.cpp
+g++ -ansi -Wall -g -c data.cpp
+g++ -ansi -Wall -g -c memory.cpp
+g++ -ansi -Wall -g -c word.cpp
+g++ -ansi -Wall -g -o CPU.out decoder.o instruction.o instruction2.o labels.o main.o registers.o data.o memory.o word.o 
